@@ -1,5 +1,5 @@
 # Meta Project - Semana Spring React
-O objetivo deste projeto é construir uma aplicação completa de consulta de vendas, onde será possível buscar vendas em um dado intervalo de datas e notificar via SMS os dados dos melhores vendedores. Com isso, busca-se desenvolver o escopo da aplicação utilizando API REST com Java e Spring Boot, banco de dados com ORM, frontend com React JS/TypeScript e implantação na nuvem com CI/CD.
+O objetivo deste projeto era construir uma aplicação completa de consulta de vendas, onde é possível buscar vendas em um dado intervalo de datas e notificar via SMS os dados dos melhores vendedores. Com isso, a ideia era desenvolver o escopo da aplicação utilizando API REST com Java e Spring Boot, banco de dados com ORM, frontend com React JS/TypeScript e implantação na nuvem com CI/CD.
 <br>
 <br>
 # Linguagens, Ferramentas e Tecnologias utilizadas:
