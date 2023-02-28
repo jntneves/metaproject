@@ -11,7 +11,7 @@ O objetivo deste projeto era construir uma aplicação completa de consulta de v
   <li>SQL</li>
   <li>HTML5</li>
   <li>CSS</li>
-  <li>Spring (Spring Web, JPA, H2 Database, Security)</li>
+  <li>Spring (Spring Web, H2 Database, JPA, Security)</li>
   <li>React</li>
   <li>Nodejs</li>
   <li>Figma</li>
