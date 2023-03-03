@@ -15,7 +15,6 @@ O objetivo deste projeto era construir uma aplicação completa de consulta de v
   <li>React</li>
   <li>Nodejs</li>
   <li>Figma</li>
-  <li>STS</li>
   <li>Twilio (Envio de notificações via SMS)</li>
   <li>Postman (Verificação das requisições)</li>
   <li>Git/GitHub (Versionamento)</li>
